@@ -95,7 +95,6 @@ class Ui_Dialog(object):
         self.peringatan_4.setAlignment(QtCore.Qt.AlignLeading|QtCore.Qt.AlignLeft|QtCore.Qt.AlignVCenter)
         self.peringatan_4.setWordWrap(True)
         self.peringatan_4.setObjectName("peringatan_4")
-
         self.retranslateUi(Dialog)
         QtCore.QMetaObject.connectSlotsByName(Dialog)
 

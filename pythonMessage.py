@@ -25,6 +25,7 @@ from Ui_window import Ui_Dialog
 from PyQt5.QtWidgets import QFileDialog
 from PyQt5.QtGui import QKeySequence
 import sys
+i
 
 class globalVar:
     statusAktif = False
